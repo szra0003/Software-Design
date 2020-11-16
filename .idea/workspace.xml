@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03803bc1-d3ff-496e-b077-3826355c6a6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello World.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello World/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Intake assignment" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,13 +36,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="758" y="151" key="FileChooserDialogImpl" timestamp="1605269817361">
+    <state x="758" y="151" key="FileChooserDialogImpl" timestamp="1605516107162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="758" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605269817361" />
-    <state x="418" y="30" key="new project wizard" timestamp="1605269822074">
+    <state x="758" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605516107162" />
+    <state x="418" y="30" key="new project wizard" timestamp="1605516110177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="418" y="30" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605269822074" />
+    <state x="418" y="30" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605516110177" />
   </component>
 </project>
